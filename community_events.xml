@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:georss="http://www.georss.org/georss">
+  <channel>
+    <title>title</title>
+    <description>Community Events</description>
+    <link>channel_link</link>
+    <item>
+      <ogr:ClassName>Confirmed</ogr:ClassName>
+      <ogr:EventName>Gardenfest</ogr:EventName>
+      <ogr:EventDate>March 25 2019</ogr:EventDate>
+      <ogr:EventType>Education</ogr:EventType>
+      <ogr:Title>Gardenfest</ogr:Title>
+      <georss:point>41.3267652186832 -92.0380801670302</georss:point>
+    </item>
+    <item>
+      <ogr:ClassName>Confirmed</ogr:ClassName>
+      <ogr:EventName>Almost Summer Concert</ogr:EventName>
+      <ogr:EventDate>May 20 2019</ogr:EventDate>
+      <ogr:EventType>Concert</ogr:EventType>
+      <ogr:Title>Almost Summer Concert</ogr:Title>
+      <georss:point>40.6011741775421 -93.1722931106493</georss:point>
+    </item>
+    <item>
+      <ogr:ClassName>Planned</ogr:ClassName>
+      <ogr:EventName>Winterfest</ogr:EventName>
+      <ogr:EventDate>January 1 2020</ogr:EventDate>
+      <ogr:EventType>Community</ogr:EventType>
+      <ogr:Title>Winterfest</ogr:Title>
+      <georss:point>42.9743693721583 -93.3384377466945</georss:point>
+    </item>
+    <item>
+      <ogr:ClassName>Planned</ogr:ClassName>
+      <ogr:EventName>Winterfest</ogr:EventName>
+      <ogr:EventDate>February 2 2020</ogr:EventDate>
+      <ogr:EventType>Community</ogr:EventType>
+      <ogr:Title>Winterfest</ogr:Title>
+      <georss:point>41.9074939853658 -94.3015712423519</georss:point>
+    </item>
+    <item>
+      <ogr:ClassName>Confirmed</ogr:ClassName>
+      <ogr:EventName>Lake Triathlon</ogr:EventName>
+      <ogr:EventDate>June 20 2019</ogr:EventDate>
+      <ogr:EventType>Sport</ogr:EventType>
+      <ogr:Title>Lake Triathlon</ogr:Title>
+      <georss:point>43.0112884592272 -93.2425990445975</georss:point>
+    </item>
+    <item>
+      <ogr:ClassName>Confirmed</ogr:ClassName>
+      <ogr:EventName>Mayday</ogr:EventName>
+      <ogr:EventDate>May 1 2019</ogr:EventDate>
+      <ogr:EventType>Historic</ogr:EventType>
+      <ogr:Title>Mayday</ogr:Title>
+      <georss:point>41.7509214044717 -93.9307449318003</georss:point>
+    </item>
+    <item>
+      <ogr:ClassName>Confirmed</ogr:ClassName>
+      <ogr:EventName>Sleddog Race</ogr:EventName>
+      <ogr:EventDate>December 20 2019</ogr:EventDate>
+      <ogr:EventType>Sport</ogr:EventType>
+      <ogr:Title>Sleddog Race</ogr:Title>
+      <georss:point>42.1473481368256 -90.9596113739764</georss:point>
+    </item>
+    <item>
+      <ogr:ClassName>Confirmed</ogr:ClassName>
+      <ogr:EventName>Bike Race</ogr:EventName>
+      <ogr:EventDate>June 14 2019</ogr:EventDate>
+      <ogr:EventType>Sport</ogr:EventType>
+      <ogr:Title>Bike Race</ogr:Title>
+      <georss:point>42.1363490976581 -91.005677459277</georss:point>
+    </item>
+    <item>
+      <ogr:ClassName>Confirmed</ogr:ClassName>
+      <ogr:EventName>Back to school Parent Celebration</ogr:EventName>
+      <ogr:EventDate>August 20 2019</ogr:EventDate>
+      <ogr:EventType>Community</ogr:EventType>
+      <ogr:Title>Back to school Parent Celebration</ogr:Title>
+      <georss:point>42.0421615839538 -90.8407013423245</georss:point>
+    </item>
+    <item>
+      <ogr:ClassName>Planned</ogr:ClassName>
+      <ogr:EventName>Winterfest</ogr:EventName>
+      <ogr:EventDate>March 20 2020</ogr:EventDate>
+      <ogr:EventType>Community</ogr:EventType>
+      <ogr:Title>Winterfest</ogr:Title>
+      <georss:point>41.8376988443345 -93.3825548086108</georss:point>
+    </item>
+    <item>
+      <ogr:ClassName>Planned</ogr:ClassName>
+      <ogr:EventName>Flowerama</ogr:EventName>
+      <ogr:EventDate>March 20 2020</ogr:EventDate>
+      <ogr:EventType>Community</ogr:EventType>
+      <ogr:Title>Flowerama</ogr:Title>
+      <georss:point>42.9635908394771 -93.2508694841722</georss:point>
+    </item>
+    <item>
+      <ogr:ClassName>Planned</ogr:ClassName>
+      <ogr:EventName>Flowerama</ogr:EventName>
+      <ogr:EventDate>March 20 2020</ogr:EventDate>
+      <ogr:EventType>Community</ogr:EventType>
+      <ogr:Title>Flowerama</ogr:Title>
+      <georss:point>41.4228156811458 -95.5523446488958</georss:point>
+    </item>
+    <item>
+      <ogr:ClassName>Planned</ogr:ClassName>
+      <ogr:EventName>Flowerama</ogr:EventName>
+      <ogr:EventDate>March 20 2020</ogr:EventDate>
+      <ogr:EventType>Community</ogr:EventType>
+      <ogr:Title>Flowerama</ogr:Title>
+      <georss:point>41.7113369162888 -94.8096922192653</georss:point>
+    </item>
+    <item>
+      <ogr:ClassName>Planned</ogr:ClassName>
+      <ogr:EventName>Flowerama</ogr:EventName>
+      <ogr:EventDate>March 20 2020</ogr:EventDate>
+      <ogr:EventType>Community</ogr:EventType>
+      <ogr:Title>Flowerama</ogr:Title>
+      <georss:point>42.5750004824379 -95.352654341467</georss:point>
+    </item>
+    <item>
+      <ogr:ClassName>Planned</ogr:ClassName>
+      <ogr:EventName>Flowerama</ogr:EventName>
+      <ogr:EventDate>March 20 2020</ogr:EventDate>
+      <ogr:EventType>Community</ogr:EventType>
+      <ogr:Title>Flowerama</ogr:Title>
+      <georss:point>40.746260608785 -95.039221824536</georss:point>
+    </item>
+    <item>
+      <ogr:ClassName>Planned</ogr:ClassName>
+      <ogr:EventName>Flowerama</ogr:EventName>
+      <ogr:EventDate>March 20 2020</ogr:EventDate>
+      <ogr:EventType>Community</ogr:EventType>
+      <ogr:Title>Flowerama</ogr:Title>
+      <georss:point>43.3284299670463 -96.2070087857417</georss:point>
+    </item>
+    <item>
+      <ogr:ClassName>Planned</ogr:ClassName>
+      <ogr:EventName>Flowerama</ogr:EventName>
+      <ogr:EventDate>March 20 2020</ogr:EventDate>
+      <ogr:EventType>Community</ogr:EventType>
+      <ogr:Title>Flowerama</ogr:Title>
+      <georss:point>42.2446772101269 -95.3353233473806</georss:point>
+    </item>
+  </channel>
+</rss>
