@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://smokefreehomes.iowatest.gov/ada-layer-export.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>ADA Layer Export</title>
+    <link>https://smokefreehomes.iowatest.gov/ada-layer-export.xml</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://smokefreehomes.iowatest.gov/ada-layer-export.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>{&quot;type&quot;:&quot;Point&quot;,&quot;coordinates&quot;:[-96.0982922,42.0258263]}</title>
+    <link>https://smokefreehomes.iowatest.gov/%7B%22type%22%3A%22Point%22%2C%22coordinates%22%3A%5B-96.0982922%2C42.0258263%5D%7D</link>
+    <description>{&quot;type&quot;:&quot;Point&quot;,&quot;coordinates&quot;:[-96.0982922,42.0258263]}</description>
+     <pubDate>{&quot;type&quot;:&quot;Point&quot;,&quot;coordinates&quot;:[-96.0982922,42.0258263]}</pubDate>
+ <dc:creator>{&quot;type&quot;:&quot;Point&quot;,&quot;coordinates&quot;:[-96.0982922,42.0258263]}</dc:creator>
+ <guid isPermaLink="false">{&quot;type&quot;:&quot;Point&quot;,&quot;coordinates&quot;:[-96.0982922,42.0258263]}</guid>
+  </item>
+  </channel>
+</rss>
